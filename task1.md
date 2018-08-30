@@ -10,7 +10,7 @@ F.A.Q
 4. Is this task optional? 
 	Ans. No, apart from other 'mini'-tasks that I assign to you in the classroom, this task is not optional. This is only the first task, you should expect more tasks like this in the future.
 5. Is it really necessary to send an image file (.jpg, .jpeg, .png, .bmp, .pdf) for the flowchart? 
-	Ans. No, it is not necessary, however, I would appreciate it if you do. An easy way to do this is via [www.draw.io](www.draw.io) . It is completely okay, if you send me a photograph of the flowchart of the process after drawing it on a piece of paper.
+	Ans. No, it is not necessary, however, I would appreciate it if you do. An easy way to do this is via [www.draw.io](https://www.draw.io) . It is completely okay, if you send me a photograph of the flowchart of the process after drawing it on a piece of paper.
 6. What is the learning outcome of this task?
 	Ans. After completing this task, you would be able to 
 	-	Identify processes in the real world.
