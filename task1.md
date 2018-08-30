@@ -23,4 +23,4 @@ With all that being said, I hope this will be a wonderful experience for all of 
 The link to my blog is [clbc.ml][blog link]
 
 
-[blog link]: clbc.ml
+[blog link]: https://clbc.ml
