@@ -1,5 +1,5 @@
-Task 1:
-Organise yourself into groups of 4-5 people. Take up a team name, decide a team leader, choose a process and then, make an algorithm according to it. Also, make a flowchart for the same. If you would like, you can also send me a C code for the same process.
+## **Task 1**:
+### Organise yourself into groups of _4-5_ people. Take up a team name, decide a team leader, choose a process and then, make an algorithm according to it. Also, make a flowchart for the same. If you would like, you can also send me a C code for the same process.
 F.A.Q
 1. Which process do we have to decide? 
 	Ans. It can be any process in the world, you can decide it on your own.
