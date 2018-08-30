@@ -20,3 +20,5 @@ F.A.Q
 	This whole process will allow you to get a better picture of the whole coding process as well as give you a flavour of how it is like 
 	working in a team with fellow member inside a timeline.
 With all that being said, I hope this will be a wonderful experience for all of you. I hope you learn something new :)
+The link to my blog is [clbc.ml][blog link]
+[blog link]: clbc.ml
