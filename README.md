@@ -2,3 +2,4 @@
 Kudos if you have traversed to this link here. I will be uploading all the tasks (assignements) I announce in the class or lab.
 
 Task 1 : <a href="./task1.md" target="_blank">link to task 1</a>
+  * Task 1 submissions will be posted <a href="./task1subs.md" target="_blank">here</a> 
