@@ -20,10 +20,10 @@ Following is the list of submissions received
 14.[How to make a movie][clp], by _Logical and Conceptual Programmers_  
 15.[How to compute and print binary to decimal number system and vice-versa][ntc], by _NotaCoders_
 
-####Solo Submissions
+#### Solo Submissions
   
 1.[How to differentiate between a conductor, a semi-conductor or an insulator][svm1], by _Shivam Yadav_  
-2.[How to buy something online] [sms1], by _Satyam Merothiya & Shivansh Sharma_  
+2.[How to buy something online][sms1], by _Satyam Merothiya & Shivansh Sharma_  
 3.[How to perform arithmetic calculations][xlr7], by _Achal Raghav_  
 4.[How to find check voting eligibility of a person.][vj], by _Vishal Jain_  
 5.[How to calculate net profit or loss in a sale][svm2], by _Shivam Kumar Rai_  
