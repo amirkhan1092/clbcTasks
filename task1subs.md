@@ -4,9 +4,9 @@ Following is the list of submissions received
   
 #### Team Submissions  
   
-1.[How to open a bank account] [nwo], by _New World Order_  
-2.[How to find nature of roots] [bgn], by _Begineers_  
-3.[How to count vowels, consonants, digits and spaces in a given string] [mbd], by _Mockingbirds_  
+1.[How to open a bank account][nwo], by _New World Order_  
+2.[How to find nature of roots][bgn], by _Begineers_  
+3.[How to count vowels, consonants, digits and spaces in a given string][mbd], by _Mockingbirds_  
 4.[How to find roots of a quadratic equation][fen], by _Future Engineers_  
 5.[How to calculate Simple Interest and print it.][cs8], by _CS008_  
 6.[How to convert a binary number to octal number][dbc], by _Debudant Coders_  
