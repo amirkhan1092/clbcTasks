@@ -4,7 +4,7 @@ Following is the list of submissions received
   
 #### Team Submissions  
   
-1.[How to open a bank account][nwo], by _New World Order_  
+1.[How to open a bank account](nwo), by _New World Order_  
 2.[How to find nature of roots][bgn], by _Begineers_  
 3.[How to count vowels, consonants, digits and spaces in a given string][mbd], by _Mockingbirds_  
 4.[How to find roots of a quadratic equation][fen], by _Future Engineers_  
@@ -32,30 +32,3 @@ Following is the list of submissions received
 8.[How to cancel a railway ticket][svm3], by _Shivam Tripathi_  
 9.[How to shop online][sbm1], by _Shubham Singh_  
 > If your team's name or your individual name is not written here, please contact me on divyansh.bhardwaj@gla.ac.in
-
-
-[clp]:
-[nwo]:
-[bgn]:
-[mbd]:
-[fen]:
-[cs8]:
-[dbc]:
-[dkc]:
-[dmt]:
-[mar]:
-[cyx]:
-[cpm]:
-[skt]:
-[anl]:
-[ntc]:
-
-[svm1]:
-[sms1]:
-[xlr7]:
-[vj]:
-[svm2]:
-[frd]:
-[abg]:
-[svm3]:
-[sbm1]:
