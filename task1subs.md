@@ -4,7 +4,7 @@ Following is the list of submissions received
   
 #### Team Submissions  
   
-1.[How to find nature of roots](#), by _Begineers_  
+1.[How to find nature of roots](#), by _Beginners_  
 2.[How to count vowels, consonants, digits and spaces in a given string](#), by _Mockingbirds_  
 3.[How to find roots of a quadratic equation](#), by _Future Engineers_  
 4.[How to calculate Simple Interest and print it.](#), by _CS008_  
