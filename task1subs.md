@@ -17,7 +17,7 @@ Following is the list of submissions received
 11.[How to perform simple arithmetic operations](#), by _ANALYSERS_  
 12.[How to determine whether a student passes an exam or not](#), by _Sketers_  
 13.[How to make a movie](#), by _Logical and Conceptual Programmers_  
-14.[How to compute and print binary to decimal number system and vice-versa](#), by _NotaCoders_
+14.[How to compute and print binary to decimal number system and vice-versa](#), by _NotaCoders_  
 15.[How to perform a simple calculation on two input numbers](#), by _Paixin_
 
 #### Solo Submissions
