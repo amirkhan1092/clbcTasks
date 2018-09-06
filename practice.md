@@ -7,6 +7,7 @@
 5.[Program to demonstrate the use of unary operators](https://github.com/dbc2201/clbcTasks/blob/master/practice/unary.c)  
 6.[Program to calculate the area of a triangle using Heron's Formula](https://github.com/dbc2201/clbcTasks/blob/master/practice/heron.c)  
 7.[Program to demonstrate the use of Switch Case](https://github.com/dbc2201/clbcTasks/blob/master/practice/switchcase.c), _by Aditya Dubey, B.Tech 1st Year, Section C_  
-8.[Program to demonstrate the use of Switch Case](https://github.com/dbc2201/clbcTasks/blob/master/practice/switchcase2.c), _by Rachit Agrawal, B.Tech 1st Year, Section C_
+8.[Program to demonstrate the use of Switch Case](https://github.com/dbc2201/clbcTasks/blob/master/practice/switchcase2.c), _by Rachit Agrawal, B.Tech 1st Year, Section C_  
+9.[Program to check whether a given year is a leap year or not](https://github.com/dbc2201/clbcTasks/blob/master/practice/leapyear.c)  
 >More of these programs will be uploaded soon, kindly watch this space. Happy Learning!  
 ![thumbs up](https://d1j8pt39hxlh3d.cloudfront.net/development/emojione/4.0/471/11451.svg?1525984252)  
