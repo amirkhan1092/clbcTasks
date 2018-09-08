@@ -19,6 +19,7 @@ Following is the list of submissions received
 13.[How to make a movie](#), by _Logical and Conceptual Programmers_  
 14.[How to compute and print binary to decimal number system and vice-versa](#), by _NotaCoders_  
 15.[How to perform a simple calculation on two input numbers](#), by _Paixin_
+16.[How to get into IITs](#) by _Petals of Flower_
 
 #### Solo Submissions
   
@@ -31,5 +32,4 @@ Following is the list of submissions received
 7.[How to make a simple calculator](#), by _Abhishek Gupta, Kanishk Bhardwaj & Vivek Goyal_  
 8.[How to cancel a railway ticket](#), by _Shivam Tripathi_  
 9.[How to shop online](#), by _Shubham Singh_  
-10.[How to get into IITs](#) by _Rishu Singh_  
 > If your team's name or your individual name is not written here, please contact me on divyansh.bhardwaj@gla.ac.in
