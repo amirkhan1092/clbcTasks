@@ -1,0 +1,29 @@
+# Syllabus for Mid Sem 1
+
+- [ ] Algorithms
+- [ ] Flowcharts
+- [ ] Structure of a C Program
+- [ ] Identifier
+- [ ] Keyword
+- [ ] Variable
+- [ ] Data Type
+- [ ] Formatted output with printf()
+- [ ] Formatted input with scanf()
+- [ ] Assignment Operators
+- [ ] Unary Operators
+- [ ] Arithmetic Operators
+- [ ] Relational Operators
+- [ ] Logical Operators
+- [ ] Bitwise Operators
+- [ ] Conditional Operators
+- [ ] Special Operators
+- [ ] Precedence and associativity for operators.
+- [ ] IEEE Representation of data types like Float and Double
+- [ ] Lvalue and Rvalue
+- [ ] Type Conversion 
+- [ ] if()
+- [ ] if - else 
+- [ ] nested if else
+- [ ] switch
+- [ ] switch vs if - else
+- [ ] goto
