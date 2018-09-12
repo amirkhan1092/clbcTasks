@@ -4,9 +4,7 @@ Kudos if you have traversed to this link here. I will be uploading all the tasks
 1.The problem statement for task 1 is located [here](https://github.com/dbc2201/clbcTasks/blob/master/task1.md).  
 	* The submissions received for task 1 are located [here](https://github.com/dbc2201/clbcTasks/blob/master/task1subs.md).  
 
-> There are some programs that I have made for your practice [here](https://github.com/dbc2201/clbcTasks/blob/master/practice.md). Happy Learning!
-
-#### [here](https://github.com/dbc2201/clbcTasks/blob/master/1/Points%20raised%20in%20the%20feedback.pdf) are some of the points raised in the feedback before Mid Sem 1  
+> There are some programs that I have made for your practice [here](https://github.com/dbc2201/clbcTasks/blob/master/practice.md). Happy Learning!  
 
 #### [here](https://github.com/dbc2201/clbcTasks/blob/master/Syllabus%20for%20Mid%20Sem%201.md) is the link to the syllabus for mid sem 1
 
