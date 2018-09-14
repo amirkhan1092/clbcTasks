@@ -15,15 +15,12 @@
 - [ ] Relational Operators
 - [ ] Logical Operators
 - [ ] Bitwise Operators
-- [ ] Conditional Operators
-- [ ] Special Operators
+- [ ] Ternary Operator
+- [ ] Sizeof() Operator, Comma Operator()
 - [ ] Precedence and associativity for operators.
-- [ ] IEEE Representation of data types like Float and Double
-- [ ] Lvalue and Rvalue
 - [ ] Type Conversion 
 - [ ] if()
 - [ ] if - else 
 - [ ] nested if else
 - [ ] switch
-- [ ] switch vs if - else
-- [ ] goto
+- [ ] switch vs if - else  
