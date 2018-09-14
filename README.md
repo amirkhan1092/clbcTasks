@@ -14,7 +14,7 @@ Kudos if you have traversed to this link here. I will be uploading all the tasks
 
 [Link for the quiz](https://bit.ly/2x9FPaa) Password is **clbc.1234**  
 
-[Link for the sample paper distributed in the class]() **PDF Format**  
+[Link for the sample paper distributed in the class](https://github.com/dbc2201/clbcTasks/blob/master/Sample%20Paper%201/Divyansh%20Paper.pdf) **PDF Format**  
 
 **JPG Format**  
 [Page 1 ](https://github.com/dbc2201/clbcTasks/blob/master/Sample%20Paper%201/img125.jpg)    
