@@ -6,11 +6,11 @@ Kudos if you have traversed to this link here. I will be uploading all the tasks
 
 > There are some programs that I have made for your practice [here](https://github.com/dbc2201/clbcTasks/blob/master/practice.md). Happy Learning!  
 
-[Building Healthy habits](https://www.youtube.com/watch?v=9iMGFqMmUFs&list=PLJicmE8fK0EhvBEZmEqxRRDJxtq1Jv-nX)  
+> [Building Healthy habits](https://www.youtube.com/watch?v=9iMGFqMmUFs&list=PLJicmE8fK0EhvBEZmEqxRRDJxtq1Jv-nX)  
 
-[How exactly does the binary code work?](https://www.youtube.com/watch?v=wgbV6DLVezo)  
+> [How exactly does the binary code work?](https://www.youtube.com/watch?v=wgbV6DLVezo)  
 
-[How do computers work?](https://www.youtube.com/watch?v=p3q5zWCw8J4&list=PLJicmE8fK0Eg2KiDF2ELbAHI_LCbKgjsP)  
+> [How do computers work?](https://www.youtube.com/watch?v=p3q5zWCw8J4&list=PLJicmE8fK0Eg2KiDF2ELbAHI_LCbKgjsP)  
 
 [Link for the quiz](bit.ly/2x9FPaa) Password is **clbc.1234**
 
