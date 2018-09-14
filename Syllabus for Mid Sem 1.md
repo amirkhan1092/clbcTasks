@@ -7,7 +7,11 @@
 4.[Programming Basics: Creating an algorithm/flowchart and then adding a counter.](https://www.youtube.com/watch?v=AjoSfSd-5Nw)  
 5.[How To Program For Beginners | Episode 1: Algorithms](https://www.youtube.com/watch?v=-WHAZGjs4Eo)  
 6.[What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy](https://www.youtube.com/watch?v=CvSOaYi89B4)  
-- [ ] Flowcharts
+- [ ] Flowcharts  
+1.[Introduction to Flowchart(HINDI)](https://www.youtube.com/watch?v=174S0Nvu7Xc)  
+2.[Introduction to Creating Flowcharts](https://www.youtube.com/watch?v=SWRDqTx8d4k)  
+3.[Concepts of Algorithm, Flow Chart & C Programming](https://www.youtube.com/watch?v=DF2XAc07eI0)  
+4.[Symbols of Flow Chart (Hindi / Urdu)](https://www.youtube.com/watch?v=akun51yj-xU)
 - [ ] Structure of a C Program
 - [ ] Identifier
 - [ ] Keyword
