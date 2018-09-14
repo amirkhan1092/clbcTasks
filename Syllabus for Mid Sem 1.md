@@ -13,8 +13,8 @@
 3.[Concepts of Algorithm, Flow Chart & C Programming](https://www.youtube.com/watch?v=DF2XAc07eI0)  
 4.[Symbols of Flow Chart (Hindi / Urdu)](https://www.youtube.com/watch?v=akun51yj-xU)
 - [ ] Structure of a C Program
-- [ ] Identifier
-- [ ] Keyword
+- [ ] [Identifiers](https://github.com/dbc2201/clbcTasks/blob/master/docs/identifiers.pdf)  
+- [ ] [Keywords](https://github.com/dbc2201/clbcTasks/blob/master/docs/keywords.pdf)  
 - [ ] Variable
 - [ ] Data Type
 - [ ] Formatted output with printf()
