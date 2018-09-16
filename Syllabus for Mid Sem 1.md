@@ -15,10 +15,14 @@
 - [ ] Structure of a C Program
 - [ ] [Identifiers](https://github.com/dbc2201/clbcTasks/blob/master/docs/identifiers.pdf)  
 - [ ] [Keywords](https://github.com/dbc2201/clbcTasks/blob/master/docs/keywords.pdf)  
-- [ ] Variable
-- [ ] Data Type
+- [ ] [Variables](https://github.com/dbc2201/clbcTasks/blob/master/docs/variables.pdf)  
+- [ ] Data Types 
+- [ ] [Identifiers](https://github.com/dbc2201/clbcTasks/blob/master/docs/identifiers.pdf)  
+- [ ] [Keywords](https://github.com/dbc2201/clbcTasks/blob/master/docs/keywords.pdf)    
 - [ ] Formatted output with printf()
-- [ ] Formatted input with scanf()
+- [ ] Formatted input with scanf()  
+[notes for operators](https://github.com/dbc2201/clbcTasks/blob/master/docs/operators.pdf)  
+[sizeof operator](https://github.com/dbc2201/clbcTasks/blob/master/docs/sizeof.pdf)  
 - [ ] Assignment Operators
 - [ ] Unary Operators
 - [ ] Arithmetic Operators
@@ -27,13 +31,14 @@
 - [ ] Bitwise Operators
 - [ ] Ternary Operator
 - [ ] Sizeof() Operator, Comma Operator()
-- [ ] Precedence and associativity for operators.
-- [ ] Type Conversion 
+- [ ] [Precedence and associativity for operators.](https://github.com/dbc2201/clbcTasks/blob/master/docs/panda.pdf)  
+- [ ] [Type Conversion](https://github.com/dbc2201/clbcTasks/blob/master/docs/typecasting.pdf)   
+- [ ] [notes for if](https://github.com/dbc2201/clbcTasks/blob/master/docs/if.pdf)  
 - [ ] if()
 - [ ] if - else 
 - [ ] nested if else
 - [ ] switch
 - [ ] switch vs if - else  
-- [ ] math.h
-- [ ] using #define
+- [ ] [math.h](https://github.com/dbc2201/clbcTasks/blob/master/docs/math.pdf)  
+- [ ] [using #define]()  
 - [ ] [Number System Conversions](http://www.learnabout-electronics.org/Digital/dig12.php)
