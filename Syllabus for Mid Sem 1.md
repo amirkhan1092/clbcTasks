@@ -34,3 +34,4 @@
 - [ ] nested if else
 - [ ] switch
 - [ ] switch vs if - else  
+- [ ] [Number System Conversions](http://www.learnabout-electronics.org/Digital/dig12.php)
