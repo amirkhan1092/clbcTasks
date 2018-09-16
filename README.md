@@ -6,6 +6,8 @@ Kudos if you have traversed to this link here. I will be uploading all the tasks
 
 > There are some programs that I have made for your practice [here](https://github.com/dbc2201/clbcTasks/blob/master/practice.md). Happy Learning!  
 
+> [Doodle for Google Competition!](https://doodles.google.co.in/d4g/index.html)
+
 > [Building Healthy habits](https://www.youtube.com/watch?v=9iMGFqMmUFs&list=PLJicmE8fK0EhvBEZmEqxRRDJxtq1Jv-nX)  
 
 > [How exactly does the binary code work?](https://www.youtube.com/watch?v=wgbV6DLVezo)  
