@@ -40,5 +40,5 @@
 - [ ] switch
 - [ ] switch vs if - else  
 - [ ] [math.h](https://github.com/dbc2201/clbcTasks/blob/master/docs/math.pdf)  
-- [ ] [using #define]()  
+- [ ] [using #define](https://github.com/dbc2201/clbcTasks/blob/master/docs/hashdefine.pdf)  
 - [ ] [Number System Conversions](http://www.learnabout-electronics.org/Digital/dig12.php)
