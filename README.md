@@ -1,6 +1,6 @@
 # Celebrating the first 101 Commits!
 
-![]()
+## [Answers for Mid Sem 1 Exam](https://github.com/dbc2201/clbcTasks/blob/master/midSem1Solutions.md)  
 
 ## C & L Section code BCSC0800 & BCSC0001
 
