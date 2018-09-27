@@ -6,6 +6,8 @@
 
 ## [Loop programs for lab](https://github.com/dbc2201/clbcTasks/blob/master/labloops.md)  
 
+## [More programs for loops](https://github.com/dbc2201/clbcTasks/blob/master/looper2.md)    
+
 ## C & L Section code BCSC0800 & BCSC0001
 
 1.The problem statement for task 1 is located [here](https://github.com/dbc2201/clbcTasks/blob/master/task1.md).  
