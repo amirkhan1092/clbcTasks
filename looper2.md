@@ -284,9 +284,7 @@ Answer the following questions for every program given below.
     
     ```
 
-19. 
-
-    ```c
+19. ```c
     #include<stdio.h>
     int main()
     {
