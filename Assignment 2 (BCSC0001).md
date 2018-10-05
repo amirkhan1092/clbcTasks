@@ -6,7 +6,7 @@ Write C programs for the following questions. Use looping constructs (for, while
 
    ```
    *|	1	2	3	4	5	6	7	8	9
-    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
     1	1	2	3	4	5	6	7	8	9  
     2	2	4	6	8	10	12	14	16	18  
     3	3	6	9	12	15	18	21	24	27  
@@ -29,7 +29,7 @@ Write C programs for the following questions. Use looping constructs (for, while
    ```Enter the number up to which you want to calculate:  
    25  
    The sum of even integers is 156  
-   The sum of odd integers is 169  ```
+   The sum of odd integers is 169  
 
 4. Write a program to input three numbers `a`, `b` and `c` and print their values in descending order.
 
@@ -39,7 +39,7 @@ Write C programs for the following questions. Use looping constructs (for, while
    42  
    56  
    The numbers in descending order are:  
-   56	42	22  ```
+   56	42	22  
 
 5. Write a program to tabulate the function.
 
@@ -78,5 +78,5 @@ Write C programs for the following questions. Use looping constructs (for, while
 
 5. Blank emails, incomplete emails, emails without attachments or late emails would shall not be entertained in **any** case whatsoever.
 
-6. The deadline for the submission of this assignment is **8^th^ of August**. 
+6. The deadline for the submission of this assignment is **October 11 2018 12:00 a.m Thursday**. 
 
