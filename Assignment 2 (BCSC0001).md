@@ -45,7 +45,8 @@ Write C programs for the following questions. Use looping constructs (for, while
 
 5. Write a program to tabulate the function.
 
-   $f(x) = (x^2 + 1.5x + 5) / (x - 3)$  
+   <img src="/cgi-bin/mimetex.cgi?
+    f(x) = (x^2 + 1.5x + 5) / (x - 3)">  
 
    for x = [-10, 10] -- > -10 to 10  
 
