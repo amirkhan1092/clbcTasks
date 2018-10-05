@@ -21,7 +21,7 @@ Write C programs for the following questions. Use looping constructs (for, while
 
    ```1	2	Do	4		Re	Do	Mi	8		Do	Re		11  
    Do	13	Mi	DoRe	16	17	Do	19		Re	DoMi	22  
-   23	Do	Re	26		Do	Mi	29	DoRe	31	32		Do  
+   23	Do	Re	26 Do	Mi	29	DoRe	31	32		Do  
    .... (and so on)  ```
 
 3. Write a program to calculate and print the sums of even and odd integers of the first n natural numbers.
@@ -55,10 +55,10 @@ Write C programs for the following questions. Use looping constructs (for, while
    For x = -8		   f(x) = -5.181818  
    For x = -6		   f(x) = -3.555556  
    For x = -4		   f(x) = -2.142857  
-   For x = -2		   f(x) = -1.2  
-   For x = 0			f(x) = -1.666667  
-   For x = 2			f(x) = -12  
-   For x = 4			f(x) = 27  
+   For x = -2	   f(x) = -1.2  
+   For x = 0		f(x) = -1.666667  
+   For x = 2		f(x) = -12  
+   For x = 			f(x) = 27  
    For x = 6			f(x) = 16.666666  
    For x = 8			f(x) = 16.200001  
    For x = 10		   f(x) = 17.142857```  
