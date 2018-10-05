@@ -1,4 +1,6 @@
-# Celebrating the first 101 Commits!
+# Celebrating the first 101 Commits!  
+
+## [Assignment 2](https://github.com/dbc2201/clbcTasks/blob/master/Assignment%202%20(BCSC0001).md)  
 
 ## [Answers for Mid Sem 1 Exam](https://github.com/dbc2201/clbcTasks/blob/master/midSem1Solutions.md)  
 
