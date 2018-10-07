@@ -20,7 +20,7 @@ Write C programs for the following questions. Use looping constructs (for, while
 2. Write a program which prints the numbers from 1 to 55, 11 numbers per line. The program shall print "Do" in place of the numbers which are multiples of 3, "Re" for multiples of "5", "Mi" for multiples of 7, "DoRe" for multiples of 3 and 5, and so on. The output shall look like
 
    ```1	2	Do	4		Re	Do	Mi	8		Do	Re		11  
-   Do	13	Mi	DoRe	16	17	Do	19		Re	DoMi	22  
+   Do	13	Mi	DoRe	16	17	Do	19 Re	DoMi	22  
    23	Do	Re	26    Do	Mi	29	DoRe	31	32		Do  
    .... (and so on)  
 
