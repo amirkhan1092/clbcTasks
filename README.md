@@ -1,5 +1,7 @@
 # Celebrating the first 101 Commits!  
 
+## [Assignment 2 submissions](https://github.com/dbc2201/clbcTasks/blob/master/Assignment%202%20submissions.md)  
+
 ## [General Practice Programs](https://github.com/dbc2201/clbcTasks/blob/master/Practice%20programs%20in%20C.md)  
 
 ## [Assignment 2](https://github.com/dbc2201/clbcTasks/blob/master/Assignment%202%20(BCSC0001).md)  
