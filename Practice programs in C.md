@@ -52,7 +52,7 @@
 
 * Read the following game logic,
 
-  > Player A rolls a dice, if the numbers is either 1 or 3 or 5, then player B will move twice as much.
+  > Player A rolls a dice, if the number is either 1 or 3 or 5, then player B will move twice as much.
   >
   > ​	(1 * 2, 3 * 5, 5 * 5)
   >
