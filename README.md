@@ -1,6 +1,6 @@
 # Attention! : This repository will shortly be moved to a [new location](https://github.com/dbc2201/gla-bcsc0001-2018/blob/master/README.md)  
 
-## [Assignment 2 submissions](https://github.com/dbc2201/clbcTasks/blob/master/Assignment%202%20submissions.md)  
+## [Assignment 2 submissions](https://github.com/dbc2201/gla-bcsc0001-2018/blob/master/assignments/assignment2/submissions/README.md)  
 
 ## [General Practice Programs](https://github.com/dbc2201/clbcTasks/blob/master/Practice%20programs%20in%20C.md)  
 
